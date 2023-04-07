@@ -1,0 +1,9 @@
+*.xml
+*.pyc
+__pycache__
+.idea/
+*.png
+*.jpg
+*.gif
+*.mp4
+.DS_Store
